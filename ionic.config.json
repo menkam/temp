@@ -1,5 +1,7 @@
 {
   "name": "lpe_project",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
