@@ -82,19 +82,14 @@
       },
       "cordova-plugin-ionic-keyboard": {},
       "cordova-plugin-crop": {},
-      "cordova-plugin-camera": {
-        "ANDROID_SUPPORT_V4_VERSION": "27.+"
-      },
+      "cordova-plugin-camera": {},
       "cordova-plugin-file-transfer": {},
       "cordova-plugin-file": {},
       "cordova-plugin-telerik-imagepicker": {},
-      "cordova-plugin-advanced-http": {
-        "OKHTTP_VERSION": "3.10.0"
-      },
+      "cordova-plugin-advanced-http": {},
       "mx.ferreyra.callnumber": {},
       "cordova-sqlite-storage": {},
-      "uk.co.workingedge.cordova.plugin.sqliteporter": {},
-      "call-number": {}
+      "uk.co.workingedge.cordova.plugin.sqliteporter": {}
     },
     "platforms": [
       "android"
